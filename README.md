@@ -1,1 +1,2 @@
-# arduino_sketches_for_kids
+# Simple Arduino Sketches for kids
+
